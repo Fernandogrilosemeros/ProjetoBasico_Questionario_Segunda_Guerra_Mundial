@@ -13,7 +13,7 @@ O objetivo da aplicação é testar os conhecimentos históricos do usuário e t
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python 3.x:** Linguagem de programação utilizada para construir a lógica do questionário, manipular entradas de texto (`input`) e estruturas condicionais (`if/else`).
+* **Python 3.10:** Linguagem de programação utilizada para construir a lógica do questionário, manipular entradas de texto (`input`) e estruturas condicionais (`if/else`).
 
 ## ⚙️ Como Executar o Projeto
 
